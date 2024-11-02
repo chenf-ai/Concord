@@ -1,0 +1,18 @@
+env: "overcooked_new"
+
+env_args:
+  map_name: many_orders  
+  use_render: False
+  use_punishment: True
+
+human_model: ''
+human_models_dir: ''
+
+test_greedy: True
+test_nepisode: 32
+test_interval: 20000
+log_interval: 20000
+runner_log_interval: 20000
+learner_log_interval: 20000
+t_max: 10050000
+vecobs_dim: 96

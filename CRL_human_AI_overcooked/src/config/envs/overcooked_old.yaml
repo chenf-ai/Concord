@@ -1,0 +1,17 @@
+env: "overcooked_old"
+
+env_args:
+  map_name: unident_s8
+  use_render: False
+
+human_model: ''
+human_models_dir: ''
+
+test_greedy: True
+test_nepisode: 32
+test_interval: 20000
+log_interval: 20000
+runner_log_interval: 20000
+learner_log_interval: 20000
+t_max: 10050000
+vecobs_dim: 62

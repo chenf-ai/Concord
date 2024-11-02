@@ -1,0 +1,1 @@
+sed -i 's/\r$//' train_sc2.sh

@@ -1,0 +1,1 @@
+sed -i 's/\r$//' train_Oracle.sh

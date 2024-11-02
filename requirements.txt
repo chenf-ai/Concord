@@ -1,0 +1,13 @@
+cloudpickle==2.2.1
+gym==0.26.2
+imageio==2.26.0
+matplotlib==3.7.1
+numpy==1.23.1
+PyYAML==6.0
+sacred==0.8.4
+tensorboard_logger==0.1.0
+tqdm==4.65.0
+absl-py==1.4.0
+pygame==2.4.0
+IPython==8.13.2
+ipywidgets==8.0.6
